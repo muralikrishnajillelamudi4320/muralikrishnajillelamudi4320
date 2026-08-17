@@ -1,122 +1,185 @@
 <div align="center">
 
-# Murali Krishna Jillelamudi
-
-### Web Interface Engineer | Software Developer
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:6366F1&height=200&section=header&text=Murali%20Krishna%20Jillelamudi&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20Interface%20Engineer%20%7C%20Software%20Developer&descAlignY=58&descSize=18" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=480&lines=Building+responsive+full-stack+web+apps;MERN+Stack+%7C+React.js+%7C+Node.js;Exploring+Generative+%26+Agentic+AI" alt="Typing SVG" />
+
+<br>
 
 [![Email](https://img.shields.io/badge/-muralijillelamudi09%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muralijillelamudi09@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/murali-krishna-jillelamudi)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/muralikrishnajillelamudi4320)
 
+![Profile Views](https://komarev.com/ghpvc/?username=muralikrishnajillelamudi4320&color=2E9EF7&style=for-the-badge&label=PROFILE+VIEWS)
+
 </div>
 
 <br>
 
-## About Me
+## 📌 About Me
 
-Final-year Computer Science and Engineering student with hands-on internship experience across three organizations, building responsive and user-friendly web applications with modern frontend and full-stack technologies. Comfortable across the MERN stack, RESTful API design, and JWT-based authentication, with a growing interest in Generative AI and Agentic AI systems. Looking for opportunities to contribute to real-world products while continuing to grow as a software engineer.
+```yaml
+name: Murali Krishna Jillelamudi
+role: Final-year B.Tech CSE Student
+focus: Full-Stack Web Development (MERN)
+based_in: Hyderabad, India
+currently_exploring: [Generative AI, Agentic AI]
+looking_for: Software Developer roles / internships
+```
+
+- 🎓 Final-year **Computer Science & Engineering** student at GNA University, Punjab
+- 💻 3x internship experience building responsive, full-stack applications
+- 🔐 Comfortable with the **MERN stack**, REST APIs, and JWT authentication
+- 🤖 Currently exploring **Generative AI** and **Agentic AI**
+- 📫 Reach me at **muralijillelamudi09@gmail.com**
 
 <br>
 
-## Tech Stack
+## 🛠️ Tech Stack
+
+<div align="center">
 
 **Languages**
-
+<br>
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 **Frameworks & Libraries**
-
+<br>
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-**Backend & Full-Stack**
-
+**Backend & Database**
+<br>
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
-**Tools**
-
+**Tools & Platforms**
+<br>
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-<br>
-
-## GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=muralikrishnajillelamudi4320&show_icons=true&theme=radical&hide_border=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muralikrishnajillelamudi4320&layout=compact&theme=radical&hide_border=true" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=muralikrishnajillelamudi4320&theme=radical&hide_border=true" />
-
 </div>
 
+<br>
+
+## 📊 GitHub Stats
+
 <div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=muralikrishnajillelamudi4320&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muralikrishnajillelamudi4320&layout=compact&theme=radical&hide_border=true" />
+
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=muralikrishnajillelamudi4320&theme=radical&hide_border=true" />
+
+<img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=muralikrishnajillelamudi4320&theme=redical&hide_border=true" />
+
 <img src="https://github-profile-trophy.vercel.app/?username=muralikrishnajillelamudi4320&theme=radical&no-frame=true&row=1&column=6" />
+
 </div>
 
 <br>
 
-## Experience
+## 💼 Experience
 
-**MERN Stack Developer Intern** — SriTech Software Services, Hyderabad
-*Jan 2026 – Jun 2026*
-- Developed a full-stack Doctor Appointment Booking System using the MERN stack
-- Built RESTful APIs and implemented JWT authentication for secure user access
+<table>
+<tr>
+<td width="40%" valign="top"><b>MERN Stack Developer Intern</b><br/>SriTech Software Services, Hyderabad<br/><sub>Jan 2026 – Jun 2026</sub></td>
+<td>
+- Developed a full-stack Doctor Appointment Booking System using the MERN stack<br/>
+- Built RESTful APIs and implemented JWT authentication for secure user access<br/>
 - Improved application performance by optimizing MongoDB queries and API responses
-
-**Web Development Intern** — Transform Today, Hyderabad
-*Jun 2025 – Aug 2025*
-- Developed a Calorie Tracker application using JavaScript and browser local storage
-- Implemented calorie tracking, meal logging, and goal management features
+</td>
+</tr>
+<tr>
+<td width="40%" valign="top"><b>Web Development Intern</b><br/>Transform Today, Hyderabad<br/><sub>Jun 2025 – Aug 2025</sub></td>
+<td>
+- Developed a Calorie Tracker application using JavaScript and browser local storage<br/>
+- Implemented calorie tracking, meal logging, and goal management features<br/>
 - Built a responsive, user-friendly interface
-
-**Frontend Developer Intern** — Corizo, Bangalore
-*May 2024 – Jul 2024*
-- Designed and developed responsive web pages using HTML, CSS, and JavaScript
-- Integrated frontend components with REST APIs
+</td>
+</tr>
+<tr>
+<td width="40%" valign="top"><b>Frontend Developer Intern</b><br/>Corizo, Bangalore<br/><sub>May 2024 – Jul 2024</sub></td>
+<td>
+- Designed and developed responsive web pages using HTML, CSS, and JavaScript<br/>
+- Integrated frontend components with REST APIs<br/>
 - Optimized website performance and page load speed
+</td>
+</tr>
+</table>
 
 <br>
 
-## Projects
+## 🚀 Featured Projects
 
-| Project | Tech Stack | Description |
-|---|---|---|
-| **[Doctor Appointment Booking System](https://github.com/muralikrishnajillelamudi4320/doctor-appointment-booking-system)** | MongoDB, Express.js, React.js, Node.js, JWT | Full-stack doctor-patient appointment management app with authentication and an admin panel |
-| **[Calorie Tracker](https://github.com/muralikrishnajillelamudi4320/calorie-tracker)** | JavaScript, HTML, CSS | Meal logging, calorie goal tracking, and progress monitoring with local storage |
-| **[Personal Portfolio Website](https://github.com/muralikrishnajillelamudi4320/portfolio-website)** | HTML, CSS, JavaScript | Responsive portfolio showcasing projects and internship experience |
+<table>
+<tr>
+<td width="33%" valign="top">
 
-> Note: update the repo names above (`doctor-appointment-booking-system`, `calorie-tracker`, `portfolio-website`) to match your actual repository names.
+### 🩺 Doctor Appointment Booking System
+Full-stack doctor-patient appointment management app with authentication and an admin panel.
+
+`MongoDB` `Express.js` `React.js` `Node.js` `JWT`
+
+**[🔗 View Repo](https://github.com/muralikrishnajillelamudi4320/doctor-appointment-booking-system)**
+
+</td>
+<td width="33%" valign="top">
+
+### 🍎 Calorie Tracker
+Meal logging, calorie goal tracking, and progress monitoring with local storage.
+
+`JavaScript` `HTML` `CSS`
+
+**[🔗 View Repo](https://github.com/muralikrishnajillelamudi4320/calorie-tracker)**
+
+</td>
+<td width="33%" valign="top">
+
+### 🌐 Personal Portfolio Website
+Responsive portfolio showcasing projects and internship experience.
+
+`HTML` `CSS` `JavaScript`
+
+**[🔗 View Repo](https://github.com/muralikrishnajillelamudi4320/portfolio-website)**
+
+</td>
+</tr>
+</table>
+
+> ⚠️ Update the repo names above (`doctor-appointment-booking-system`, `calorie-tracker`, `portfolio-website`) to match your actual GitHub repositories.
 
 <br>
 
-## Education
+## 🎓 Education
 
 | Qualification | Institution | Years |
-|---|---|---|
-| B.Tech, Computer Science & Engineering (Pursuing) | GNA University, Phagwara, Punjab | 2022 – 2026 |
-| Senior Secondary Examination — 83.3% | Sri Chaitanya Junior College, Guntur | 2020 – 2022 |
-| Secondary Examination | Mana Bala Bharathi High School, Santhamaguluru | 2019 – 2020 |
+|:---|:---|:---:|
+| 🎓 B.Tech, Computer Science & Engineering *(Pursuing)* | GNA University, Phagwara, Punjab | 2022 – 2026 |
+| 📘 Senior Secondary Examination — 83.3% | Sri Chaitanya Junior College, Guntur | 2020 – 2022 |
+| 📗 Secondary Examination | Mana Bala Bharathi High School, Santhamaguluru | 2019 – 2020 |
 
 <br>
 
-## Connect with Me
+## 📫 Let's Connect
 
 <div align="center">
 
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muralijillelamudi09@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/murali-krishna-jillelamudi)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/muralikrishnajillelamudi4320)
+
+<br>
+
+**Thanks for stopping by — always open to connecting and building something great! 🚀**
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:2E9EF7&height=100&section=footer" />
 
 </div>
